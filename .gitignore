@@ -1,0 +1,9 @@
+# Rust build folder
+/target/
+
+# Backup or temp files
+*.rs.bk
+*.tmp
+
+# Local JSON file (optional)
+week.json
