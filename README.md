@@ -1,5 +1,4 @@
-# ToDolist_TestProgram
-This program is about creating a list of task for a week to completeWeek Task CLI
+Week Task CLI
 
 A simple Command-Line Interface (CLI) tool in Rust to manage tasks for each day of the week. Keep track of tasks, mark them done, update, or clear them quickly from the terminal.
 
